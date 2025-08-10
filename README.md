@@ -1,6 +1,15 @@
 # Hey!
 ### I am Mohamed Mohamud,
-<p><em>Software Engineer Developer Web Full Stack and Mobile<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I’m Full-Stack Developer with 4 years of experience
+designing and developing scalable ERP systems for
+businesses in legal, real estate, and enterprise sectors.
+Proficient in modern web technologies including Next.js,
+Node.js, PostgreSQL, and Tailwind CSS. Adept at solving
+complex technical problems, architecting efficient
+backend systems, and delivering clean, maintainable
+code. Committed to continuous learning, system design
+best practices, and delivering impactful business
+solutions<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <div align="center">
